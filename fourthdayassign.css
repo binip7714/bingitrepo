@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Rubik+Vinyl&display=swap');
+.login{
+    background-color: aqua;
+    background-image: url('/image/drop.jpeg');
+    text-align: center;
+    height: 300px;
+    background-size: cover;
+}
+.heading{
+    padding: 10px;
+    height: 10px;
+    font-family: 'Rubik Vinyl', cursive;
+    color: rgb(6, 8, 7);
+
+}
